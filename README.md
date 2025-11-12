@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/sergiosbx/pyway.svg?branch=master)](https://travis-ci.org/sergiosbx/pyway)
 
+This project is a fork of https://github.com/sergiosbx/pyway, licensed under the GNU GPLv3.<br>
+Copyright (C) 2025 Sinqly.net
 
 Pyway Database Version Control
 ===============================
