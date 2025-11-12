@@ -23,8 +23,8 @@ setup(
     description='Pyway is a database versioning and migration tool inspired on Flyway',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/sergiosbx/pyway',
-    download_url='https://github.com/sergiosbx/pyway/tarball/' + __version__,
+    url='https://github.com/sinqly-net/pyway',
+    download_url='https://github.com/sinqly-net/pyway/tarball/' + __version__,
     license='GPL',
     classifiers=[
       'Development Status :: 3 - Alpha',
@@ -34,9 +34,9 @@ setup(
     keywords='',
     packages=find_packages(exclude=['docs', 'tests*']),
     include_package_data=True,
-    author='Sérgio Ferreira Filho',
+    author='femabeh',
     install_requires=install_requires,
-    author_email='sergio.ferreira.filho@gmail.com',
+    author_email='femabeh@gmail.com',
     py_modules=['pyway'],
     entry_points={
         'console_scripts': ['pyway=pyway.scripts.main:cli']
